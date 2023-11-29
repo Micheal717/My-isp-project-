@@ -97,9 +97,8 @@
                     <ul>
                         <li>
                             <a href="#">Warren Buffett’s Letters to Berkshire Shareholders</a>
-                            <br>
-                            <font size="2">Updated February 25, 2023</font>
-
+                            <br> 
+                            <font size="2">Updated February 25, 2023</font
                         </li>
                     </ul>
                 </td>
@@ -133,7 +132,7 @@
                         <li>
                             <a href="#">Celebrating 50 Years of a profitable Partnership</a>
                             <br>
-                            <font size="2">(A commemorative book first sold at the 2015 Annual meeting and now for sale on eBay.)</font>
+                            <font size="2">(A commemorative book first sold at the 2015 Annual meeting and now for sale on eBay</font>
                         </li>
                     </ul>
                 </td>
@@ -181,9 +180,7 @@
             </tr>
         </tbody>
     </table>
-
     <hr>
-
     <p>
         <a href="http://www.geico.com/">GEICO</a>
         <br>
@@ -193,13 +190,11 @@
         </font>
         <br>
         <hr>
-
         <font size="2">
             If you have any comments about our WEB page, you can write us at the address shown above. However, due to the limited number of personnel in our corporate office, we are unable to provide a direct response
         </font>
         <br>
         <hr>
-
         <dl>
             <a href="#">Legal Disclaimer</a>
             <br>
@@ -207,4 +202,4 @@
         </dl>
     </p>
 </body>
-</html>g
+</html>
